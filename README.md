@@ -1,12 +1,2 @@
-- 👋 Hi, I’m Ashkan. I am a full stack developer.
-
-- 👀 I’m interested in full stack software development.
-     I have experience in cloud services, docker, SQL, microservices, ORMs, backend and frontend.
-     I'm also passionate to work with kubernetes.
-     
-- 🌱 I’m currently learning and improving myself in all my interests.
-
-- 💞️ I’m looking to collaborate on microservices, cloud services, docker and kubernetes.
-
-- 📫 Phone no.: +60 (11) 64568927
-     Email: ashkan.aliabbasi@gmail.com
+Highly skilled Principal Software Developer with over 15 years of experience which includes creating high-quality web applications and software solutions. Being skillful in both Frontend and Backend development is one of the biggest factors that I have to meet the client's needs, and my application is user-friendly, resilient, and scalable.
+I am a code therapist. I have the ability to decommission code hazards. My speed might not be that of a racer but I am renowned for my accurate work with no room for error.
